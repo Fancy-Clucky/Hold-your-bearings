@@ -1,0 +1,102 @@
+a:link { 
+	color: white;
+	text-decoration: none; 
+}
+a:visited { 
+	color: white;
+	text-decoration: none;
+}
+a:hover {
+	color: #373334;
+}
+
+body { 
+
+}
+
+header {
+		height: 600px;
+		width: 17.2%;
+		right: 360px;
+		font-family: impact;
+		font-size: 50px;
+		background-color: #47555e;
+		color: white;
+		list-style-image: url("arrow.png");
+		list-style-position: outside;
+		position: fixed;
+		top: 0%;
+		left: 0%;
+		height: 100%;
+		line-height: 1.4;
+		padding-left: 0px;
+		
+}
+td.smol { 
+	font-size: 30px;
+	border-top: 3px;
+
+}
+article {
+	font-family: arial;
+	font-size: 30px;
+	background-color: #373334;
+	text-align: left;
+	color: white;
+	position: fixed;
+	left: 330px;
+	right: 0px;
+	top: 0px;
+	height: 100%
+	
+	
+}
+article img {
+	float: right;
+}
+
+table {
+	border: 3px solid black;
+	height: 100%;
+	border-spacing: 0px;
+}
+td {
+	border: 3px solid black;
+	padding: 5px;
+}
+th {
+	border: 3px solid black;
+	padding: 5px;
+}
+img.center {
+	position: fixed;
+	left: 180px;
+	top: 630px;
+}
+img.top_right{
+	position: fixed;
+	top: 25px;
+	right: 50px;
+}
+img.bottom_right{
+	position: fixed;
+	right: 100px;
+	top: 430px;
+}
+p.top {
+	position: fixed;
+	top: 50px;
+}
+p.bottom {
+	position: fixed;
+	top: 400px;
+}
+td.bottomLess {
+	border-bottom: 3px;
+}
+form {
+	position: fixed;
+	top: 35%;
+	right: 28%;
+	line-height: 2;
+}
