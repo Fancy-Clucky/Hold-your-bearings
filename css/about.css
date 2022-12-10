@@ -78,7 +78,7 @@ img.top_right{
 	top: 25px;
 	right: 50px;
 }
-video.bottom_right{
+img.bottom_right{
 	position: fixed;
 	right: 100px;
 	top: 430px;
@@ -93,4 +93,8 @@ p.bottom {
 }
 td.bottomLess {
 	border-bottom: 3px;
+}
+video {
+	position: fixed;
+	left: 50%;
 }
